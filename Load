@@ -1,0 +1,158 @@
+local ScreenGui = Instance.new("ScreenGui")
+local Backing = Instance.new("Frame")
+local UICorner = Instance.new("UICorner")
+local PageOne = Instance.new("Frame")
+local UICorner_2 = Instance.new("UICorner")
+local TeethLogo = Instance.new("ImageLabel")
+local LabelOne = Instance.new("TextLabel")
+local Version = Instance.new("TextLabel")
+local MusicOff = Instance.new("TextButton")
+local UICorner_3 = Instance.new("UICorner")
+local Right = Instance.new("TextButton")
+local UICorner_4 = Instance.new("UICorner")
+local Left = Instance.new("TextButton")
+local UICorner_5 = Instance.new("UICorner")
+
+--Properties:
+
+ScreenGui.Parent = game.CoreGui	
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Backing.Name = "Backing"
+Backing.Parent = ScreenGui
+Backing.AnchorPoint = Vector2.new(0.5, 0.5)
+Backing.BackgroundColor3 = Color3.fromRGB(0, 203, 146)
+Backing.Position = UDim2.new(0.5, 0, 0.5, 0)
+Backing.Size = UDim2.new(0, 205, 0, 345)
+Backing.ZIndex = 3
+Backing.Draggable = true
+Backing.Active = true
+
+UICorner.CornerRadius = UDim.new(0, 12)
+UICorner.Parent = Backing
+
+PageOne.Name = "PageOne"
+PageOne.Parent = Backing
+PageOne.AnchorPoint = Vector2.new(0.5, 0.5)
+PageOne.BackgroundColor3 = Color3.fromRGB(0, 232, 170)
+PageOne.Position = UDim2.new(0.499937624, 0, 0.499749988, 0)
+PageOne.Size = UDim2.new(0, 195, 0, 335)
+PageOne.ZIndex = 4
+
+UICorner_2.CornerRadius = UDim.new(0, 12)
+UICorner_2.Parent = PageOne
+
+TeethLogo.Name = "TeethLogo"
+TeethLogo.Parent = PageOne
+TeethLogo.AnchorPoint = Vector2.new(0.5, 0.5)
+TeethLogo.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TeethLogo.BackgroundTransparency = 1.000
+TeethLogo.Position = UDim2.new(0.176922858, 0, 0.0895522386, 0)
+TeethLogo.Size = UDim2.new(0, 70, 0, 70)
+TeethLogo.ZIndex = 5
+TeethLogo.Image = "rbxassetid://8448529668"
+
+LabelOne.Name = "LabelOne"
+LabelOne.Parent = PageOne
+LabelOne.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+LabelOne.BackgroundTransparency = 1.000
+LabelOne.Position = UDim2.new(0.356410086, 0, 0, 0)
+LabelOne.Size = UDim2.new(0, 98, 0, 25)
+LabelOne.ZIndex = 5
+LabelOne.Font = Enum.Font.Kalam
+LabelOne.Text = "SpeechUI"
+LabelOne.TextColor3 = Color3.fromRGB(0, 0, 0)
+LabelOne.TextScaled = true
+LabelOne.TextSize = 14.000
+LabelOne.TextWrapped = true
+
+Version.Name = "Version"
+Version.Parent = PageOne
+Version.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Version.BackgroundTransparency = 1.000
+Version.Position = UDim2.new(0.81794858, 0, 0, 0)
+Version.Size = UDim2.new(0, 35, 0, 25)
+Version.ZIndex = 5
+Version.Font = Enum.Font.Kalam
+Version.Text = "v 1.0"
+Version.TextColor3 = Color3.fromRGB(0, 0, 0)
+Version.TextScaled = true
+Version.TextSize = 14.000
+Version.TextWrapped = true
+
+MusicOff.Name = "MusicOff"
+MusicOff.Parent = PageOne
+MusicOff.BackgroundColor3 = Color3.fromRGB(0, 200, 140)
+MusicOff.Position = UDim2.new(0.112820514, 0, 0.194029853, 0)
+MusicOff.Size = UDim2.new(0, 150, 0, 50)
+MusicOff.ZIndex = 5
+MusicOff.Font = Enum.Font.Kalam
+MusicOff.Text = "Delete Music"
+MusicOff.TextColor3 = Color3.fromRGB(0, 0, 0)
+MusicOff.TextScaled = true
+MusicOff.TextSize = 14.000
+MusicOff.TextWrapped = true
+
+UICorner_3.CornerRadius = UDim.new(0, 12)
+UICorner_3.Parent = MusicOff
+
+Right.Name = "Right"
+Right.Parent = ScreenGui
+Right.AnchorPoint = Vector2.new(0.5, 0.5)
+Right.BackgroundColor3 = Color3.fromRGB(0, 190, 133)
+Right.BackgroundTransparency = 0.500
+Right.BorderSizePixel = 0
+Right.Position = UDim2.new(0.605000019, 0, 0.5, 0)
+Right.Size = UDim2.new(0, 30, 0, 345)
+Right.Font = Enum.Font.SourceSans
+Right.Text = ""
+Right.TextColor3 = Color3.fromRGB(0, 0, 0)
+Right.TextSize = 14.000
+
+UICorner_4.CornerRadius = UDim.new(0, 12)
+UICorner_4.Parent = Right
+
+Left.Name = "Left"
+Left.Parent = ScreenGui
+Left.AnchorPoint = Vector2.new(0.5, 0.5)
+Left.BackgroundColor3 = Color3.fromRGB(0, 190, 133)
+Left.BackgroundTransparency = 0.500
+Left.BorderSizePixel = 0
+Left.Position = UDim2.new(0.395553708, 0, 0.5, 0)
+Left.Size = UDim2.new(0, 30, 0, 345)
+Left.Font = Enum.Font.SourceSans
+Left.Text = ""
+Left.TextColor3 = Color3.fromRGB(0, 0, 0)
+Left.TextSize = 14.000
+
+UICorner_5.CornerRadius = UDim.new(0, 12)
+UICorner_5.Parent = Left
+
+-- Scripts:
+
+local function AERXK_fake_script() -- MusicOff.Script 
+	local script = Instance.new('Script', MusicOff)
+
+	local MusicButton = script.Parent
+	
+	function lclick()
+		game.workspace.GameMusic:Destroy()
+	end
+	
+	MusicButton.MouseButton1Click:Connect(lclick)
+end
+coroutine.wrap(AERXK_fake_script)()
+local function HXOGD_fake_script() -- Right.Script 
+	local script = Instance.new('Script', Right)
+
+	print("Hello world!")
+	
+end
+coroutine.wrap(HXOGD_fake_script)()
+local function VZDL_fake_script() -- Left.Script 
+	local script = Instance.new('Script', Left)
+
+	print("Hello world!")
+	
+end
+coroutine.wrap(VZDL_fake_script)()
