@@ -36,71 +36,99 @@ local CheckUp = Instance.new("TextButton")
 local UICorner_14 = Instance.new("UICorner")
 local Cleaning = Instance.new("TextButton")
 local UICorner_15 = Instance.new("UICorner")
-local HygineSpecialistSpeech = Instance.new("Frame")
+local CheckupFrame2 = Instance.new("Frame")
 local UICorner_16 = Instance.new("UICorner")
 local TeethLogo_3 = Instance.new("ImageLabel")
-local LabelFive = Instance.new("TextLabel")
-local Version_3 = Instance.new("TextLabel")
-local XraySpeech = Instance.new("Frame")
-local UICorner_17 = Instance.new("UICorner")
-local TeethLogo_4 = Instance.new("ImageLabel")
-local Label9 = Instance.new("TextLabel")
-local Version_4 = Instance.new("TextLabel")
-local OrthodontistSpeech = Instance.new("Frame")
-local UICorner_18 = Instance.new("UICorner")
-local TeethLogo_5 = Instance.new("ImageLabel")
-local LabelSeven = Instance.new("TextLabel")
-local Version_5 = Instance.new("TextLabel")
-local Oral_2 = Instance.new("Frame")
-local UICorner_19 = Instance.new("UICorner")
-local TeethLogo_6 = Instance.new("ImageLabel")
-local LabelSix = Instance.new("TextLabel")
-local Version_6 = Instance.new("TextLabel")
-local CheckupFrame2 = Instance.new("Frame")
-local UICorner_20 = Instance.new("UICorner")
-local TeethLogo_7 = Instance.new("ImageLabel")
 local LabelTwo = Instance.new("TextLabel")
-local Version_7 = Instance.new("TextLabel")
+local Version_3 = Instance.new("TextLabel")
 local CheckupV1 = Instance.new("TextButton")
-local UICorner_21 = Instance.new("UICorner")
+local UICorner_17 = Instance.new("UICorner")
 local CheckupV2 = Instance.new("TextButton")
-local UICorner_22 = Instance.new("UICorner")
+local UICorner_18 = Instance.new("UICorner")
 local CheckupV4 = Instance.new("TextButton")
-local UICorner_23 = Instance.new("UICorner")
+local UICorner_19 = Instance.new("UICorner")
 local CheckupV3 = Instance.new("TextButton")
-local UICorner_24 = Instance.new("UICorner")
+local UICorner_20 = Instance.new("UICorner")
 local CheckUpV5 = Instance.new("TextButton")
-local UICorner_25 = Instance.new("UICorner")
+local UICorner_21 = Instance.new("UICorner")
 local CheckupBack = Instance.new("TextButton")
-local UICorner_26 = Instance.new("UICorner")
-local CleaningFrame = Instance.new("Frame")
-local UICorner_27 = Instance.new("UICorner")
-local TeethLogo_8 = Instance.new("ImageLabel")
-local LabelThree = Instance.new("TextLabel")
-local Version_8 = Instance.new("TextLabel")
-local CheckupFrame = Instance.new("Frame")
-local UICorner_28 = Instance.new("UICorner")
-local TeethLogo_9 = Instance.new("ImageLabel")
+local UICorner_22 = Instance.new("UICorner")
+local CleanupFrame = Instance.new("Frame")
+local UICorner_23 = Instance.new("UICorner")
+local TeethLogo_4 = Instance.new("ImageLabel")
 local LabelOne = Instance.new("TextLabel")
-local Version_9 = Instance.new("TextLabel")
+local Version_4 = Instance.new("TextLabel")
 local Greeting = Instance.new("TextButton")
+local UICorner_24 = Instance.new("UICorner")
+local DSCLUQ1 = Instance.new("TextButton")
+local UICorner_25 = Instance.new("UICorner")
+local DSCLUQ3 = Instance.new("TextButton")
+local UICorner_26 = Instance.new("UICorner")
+local DSCLUQ2 = Instance.new("TextButton")
+local UICorner_27 = Instance.new("UICorner")
+local DSCLUQ5 = Instance.new("TextButton")
+local UICorner_28 = Instance.new("UICorner")
+local DSCLUQ4 = Instance.new("TextButton")
 local UICorner_29 = Instance.new("UICorner")
-local DSCUQ1 = Instance.new("TextButton")
+local NextPageDAC = Instance.new("TextButton")
 local UICorner_30 = Instance.new("UICorner")
-local DSCUQ3 = Instance.new("TextButton")
+local DSCLUQ6 = Instance.new("TextButton")
 local UICorner_31 = Instance.new("UICorner")
-local DSCUQ2 = Instance.new("TextButton")
+local DSCLUQ7 = Instance.new("TextButton")
 local UICorner_32 = Instance.new("UICorner")
-local DSCUQ5 = Instance.new("TextButton")
+local CheckupFrame = Instance.new("Frame")
 local UICorner_33 = Instance.new("UICorner")
-local DSCUQ4 = Instance.new("TextButton")
+local TeethLogo_5 = Instance.new("ImageLabel")
+local LabelOne_2 = Instance.new("TextLabel")
+local Version_5 = Instance.new("TextLabel")
+local Greeting_2 = Instance.new("TextButton")
 local UICorner_34 = Instance.new("UICorner")
-local DSCUQ6 = Instance.new("TextButton")
+local DSCUQ1 = Instance.new("TextButton")
 local UICorner_35 = Instance.new("UICorner")
-local NextPageDA = Instance.new("TextButton")
+local DSCUQ3 = Instance.new("TextButton")
 local UICorner_36 = Instance.new("UICorner")
-local Home = Instance.new("TextButton")
+local DSCUQ2 = Instance.new("TextButton")
 local UICorner_37 = Instance.new("UICorner")
+local DSCUQ5 = Instance.new("TextButton")
+local UICorner_38 = Instance.new("UICorner")
+local DSCUQ4 = Instance.new("TextButton")
+local UICorner_39 = Instance.new("UICorner")
+local DSCUQ6 = Instance.new("TextButton")
+local UICorner_40 = Instance.new("UICorner")
+local NextPageDA = Instance.new("TextButton")
+local UICorner_41 = Instance.new("UICorner")
+local CleanupFrame2 = Instance.new("Frame")
+local UICorner_42 = Instance.new("UICorner")
+local TeethLogo_6 = Instance.new("ImageLabel")
+local LabelOne_3 = Instance.new("TextLabel")
+local Version_6 = Instance.new("TextLabel")
+local DSCLUQ9 = Instance.new("TextButton")
+local UICorner_43 = Instance.new("UICorner")
+local DSCLUQ11 = Instance.new("TextButton")
+local UICorner_44 = Instance.new("UICorner")
+local LastPageDAC = Instance.new("TextButton")
+local UICorner_45 = Instance.new("UICorner")
+local DSCLUQ8 = Instance.new("TextButton")
+local UICorner_46 = Instance.new("UICorner")
+local DSCLUQ10 = Instance.new("TextButton")
+local UICorner_47 = Instance.new("UICorner")
+local FlavorMenu = Instance.new("Frame")
+local UICorner_48 = Instance.new("UICorner")
+local TeethLogo_7 = Instance.new("ImageLabel")
+local LabelOne_4 = Instance.new("TextLabel")
+local Version_7 = Instance.new("TextLabel")
+local FlavorB1 = Instance.new("TextButton")
+local UICorner_49 = Instance.new("UICorner")
+local FlavorB2 = Instance.new("TextButton")
+local UICorner_50 = Instance.new("UICorner")
+local FlavorB4 = Instance.new("TextButton")
+local UICorner_51 = Instance.new("UICorner")
+local FlavorB3 = Instance.new("TextButton")
+local UICorner_52 = Instance.new("UICorner")
+local BackPageFlavor = Instance.new("TextButton")
+local UICorner_53 = Instance.new("UICorner")
+local Home = Instance.new("TextButton")
+local UICorner_54 = Instance.new("UICorner")
 
 --Properties:
 
@@ -112,8 +140,9 @@ Frame.Parent = FagShit
 Frame.AnchorPoint = Vector2.new(0.5, 0.5)
 Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Frame.BackgroundTransparency = 1.000
-Frame.Position = UDim2.new(0.499446303, 0, 0.498920083, 0)
-Frame.Size = UDim2.new(0, 100, 0, 100)
+Frame.Position = UDim2.new(0.49887678, 0, 0.495680332, 0)
+Frame.Size = UDim2.new(0, 223, 0, 349)
+Frame.ZIndex = 50
 Frame.Draggable = true
 Frame.Active = true
 
@@ -121,6 +150,7 @@ Backing.Name = "Backing"
 Backing.Parent = Frame
 Backing.AnchorPoint = Vector2.new(0.5, 0.5)
 Backing.BackgroundColor3 = Color3.fromRGB(0, 203, 146)
+Backing.LayoutOrder = 1
 Backing.Position = UDim2.new(0.5, 0, 0.5, 0)
 Backing.Size = UDim2.new(0, 205, 0, 345)
 Backing.ZIndex = 3
@@ -401,206 +431,6 @@ Cleaning.TextWrapped = true
 UICorner_15.CornerRadius = UDim.new(0, 12)
 UICorner_15.Parent = Cleaning
 
-HygineSpecialistSpeech.Name = "HygineSpecialistSpeech"
-HygineSpecialistSpeech.Parent = Backing
-HygineSpecialistSpeech.AnchorPoint = Vector2.new(0.5, 0.5)
-HygineSpecialistSpeech.BackgroundColor3 = Color3.fromRGB(0, 232, 170)
-HygineSpecialistSpeech.Position = UDim2.new(0.5, 0, 0.5, 0)
-HygineSpecialistSpeech.Size = UDim2.new(0, 195, 0, 335)
-HygineSpecialistSpeech.Visible = false
-HygineSpecialistSpeech.ZIndex = 4
-
-UICorner_16.CornerRadius = UDim.new(0, 12)
-UICorner_16.Parent = HygineSpecialistSpeech
-
-TeethLogo_3.Name = "TeethLogo"
-TeethLogo_3.Parent = HygineSpecialistSpeech
-TeethLogo_3.AnchorPoint = Vector2.new(0.5, 0.5)
-TeethLogo_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TeethLogo_3.BackgroundTransparency = 1.000
-TeethLogo_3.Position = UDim2.new(0.176922858, 0, 0.0895522386, 0)
-TeethLogo_3.Size = UDim2.new(0, 70, 0, 70)
-TeethLogo_3.ZIndex = 5
-TeethLogo_3.Image = "rbxassetid://8448529668"
-
-LabelFive.Name = "LabelFive"
-LabelFive.Parent = HygineSpecialistSpeech
-LabelFive.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-LabelFive.BackgroundTransparency = 1.000
-LabelFive.Position = UDim2.new(0.356410086, 0, 0, 0)
-LabelFive.Size = UDim2.new(0, 98, 0, 25)
-LabelFive.ZIndex = 5
-LabelFive.Font = Enum.Font.Kalam
-LabelFive.Text = "SpeechUI"
-LabelFive.TextColor3 = Color3.fromRGB(0, 0, 0)
-LabelFive.TextScaled = true
-LabelFive.TextSize = 14.000
-LabelFive.TextWrapped = true
-
-Version_3.Name = "Version"
-Version_3.Parent = HygineSpecialistSpeech
-Version_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-Version_3.BackgroundTransparency = 1.000
-Version_3.Position = UDim2.new(0.81794858, 0, 0, 0)
-Version_3.Size = UDim2.new(0, 35, 0, 25)
-Version_3.ZIndex = 5
-Version_3.Font = Enum.Font.Kalam
-Version_3.Text = "v 1.0"
-Version_3.TextColor3 = Color3.fromRGB(0, 0, 0)
-Version_3.TextScaled = true
-Version_3.TextSize = 14.000
-Version_3.TextWrapped = true
-
-XraySpeech.Name = "XraySpeech"
-XraySpeech.Parent = Backing
-XraySpeech.AnchorPoint = Vector2.new(0.5, 0.5)
-XraySpeech.BackgroundColor3 = Color3.fromRGB(0, 232, 170)
-XraySpeech.Position = UDim2.new(0.5, 0, 0.5, 0)
-XraySpeech.Size = UDim2.new(0, 195, 0, 335)
-XraySpeech.Visible = false
-XraySpeech.ZIndex = 4
-
-UICorner_17.CornerRadius = UDim.new(0, 12)
-UICorner_17.Parent = XraySpeech
-
-TeethLogo_4.Name = "TeethLogo"
-TeethLogo_4.Parent = XraySpeech
-TeethLogo_4.AnchorPoint = Vector2.new(0.5, 0.5)
-TeethLogo_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TeethLogo_4.BackgroundTransparency = 1.000
-TeethLogo_4.Position = UDim2.new(0.176922858, 0, 0.0895522386, 0)
-TeethLogo_4.Size = UDim2.new(0, 70, 0, 70)
-TeethLogo_4.ZIndex = 5
-TeethLogo_4.Image = "rbxassetid://8448529668"
-
-Label9.Name = "Label9"
-Label9.Parent = XraySpeech
-Label9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-Label9.BackgroundTransparency = 1.000
-Label9.Position = UDim2.new(0.356410086, 0, 0, 0)
-Label9.Size = UDim2.new(0, 98, 0, 25)
-Label9.ZIndex = 5
-Label9.Font = Enum.Font.Kalam
-Label9.Text = "SpeechUI"
-Label9.TextColor3 = Color3.fromRGB(0, 0, 0)
-Label9.TextScaled = true
-Label9.TextSize = 14.000
-Label9.TextWrapped = true
-
-Version_4.Name = "Version"
-Version_4.Parent = XraySpeech
-Version_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-Version_4.BackgroundTransparency = 1.000
-Version_4.Position = UDim2.new(0.81794858, 0, 0, 0)
-Version_4.Size = UDim2.new(0, 35, 0, 25)
-Version_4.ZIndex = 5
-Version_4.Font = Enum.Font.Kalam
-Version_4.Text = "v 1.0"
-Version_4.TextColor3 = Color3.fromRGB(0, 0, 0)
-Version_4.TextScaled = true
-Version_4.TextSize = 14.000
-Version_4.TextWrapped = true
-
-OrthodontistSpeech.Name = "OrthodontistSpeech"
-OrthodontistSpeech.Parent = Backing
-OrthodontistSpeech.AnchorPoint = Vector2.new(0.5, 0.5)
-OrthodontistSpeech.BackgroundColor3 = Color3.fromRGB(0, 232, 170)
-OrthodontistSpeech.Position = UDim2.new(0.5, 0, 0.5, 0)
-OrthodontistSpeech.Size = UDim2.new(0, 195, 0, 335)
-OrthodontistSpeech.Visible = false
-OrthodontistSpeech.ZIndex = 4
-
-UICorner_18.CornerRadius = UDim.new(0, 12)
-UICorner_18.Parent = OrthodontistSpeech
-
-TeethLogo_5.Name = "TeethLogo"
-TeethLogo_5.Parent = OrthodontistSpeech
-TeethLogo_5.AnchorPoint = Vector2.new(0.5, 0.5)
-TeethLogo_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TeethLogo_5.BackgroundTransparency = 1.000
-TeethLogo_5.Position = UDim2.new(0.176922858, 0, 0.0895522386, 0)
-TeethLogo_5.Size = UDim2.new(0, 70, 0, 70)
-TeethLogo_5.ZIndex = 5
-TeethLogo_5.Image = "rbxassetid://8448529668"
-
-LabelSeven.Name = "LabelSeven"
-LabelSeven.Parent = OrthodontistSpeech
-LabelSeven.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-LabelSeven.BackgroundTransparency = 1.000
-LabelSeven.Position = UDim2.new(0.356410086, 0, 0, 0)
-LabelSeven.Size = UDim2.new(0, 98, 0, 25)
-LabelSeven.ZIndex = 5
-LabelSeven.Font = Enum.Font.Kalam
-LabelSeven.Text = "SpeechUI"
-LabelSeven.TextColor3 = Color3.fromRGB(0, 0, 0)
-LabelSeven.TextScaled = true
-LabelSeven.TextSize = 14.000
-LabelSeven.TextWrapped = true
-
-Version_5.Name = "Version"
-Version_5.Parent = OrthodontistSpeech
-Version_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-Version_5.BackgroundTransparency = 1.000
-Version_5.Position = UDim2.new(0.81794858, 0, 0, 0)
-Version_5.Size = UDim2.new(0, 35, 0, 25)
-Version_5.ZIndex = 5
-Version_5.Font = Enum.Font.Kalam
-Version_5.Text = "v 1.0"
-Version_5.TextColor3 = Color3.fromRGB(0, 0, 0)
-Version_5.TextScaled = true
-Version_5.TextSize = 14.000
-Version_5.TextWrapped = true
-
-Oral_2.Name = "Oral"
-Oral_2.Parent = Backing
-Oral_2.AnchorPoint = Vector2.new(0.5, 0.5)
-Oral_2.BackgroundColor3 = Color3.fromRGB(0, 232, 170)
-Oral_2.Position = UDim2.new(0.5, 0, 0.5, 0)
-Oral_2.Size = UDim2.new(0, 195, 0, 335)
-Oral_2.Visible = false
-Oral_2.ZIndex = 4
-
-UICorner_19.CornerRadius = UDim.new(0, 12)
-UICorner_19.Parent = Oral_2
-
-TeethLogo_6.Name = "TeethLogo"
-TeethLogo_6.Parent = Oral_2
-TeethLogo_6.AnchorPoint = Vector2.new(0.5, 0.5)
-TeethLogo_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TeethLogo_6.BackgroundTransparency = 1.000
-TeethLogo_6.Position = UDim2.new(0.176922858, 0, 0.0895522386, 0)
-TeethLogo_6.Size = UDim2.new(0, 70, 0, 70)
-TeethLogo_6.ZIndex = 5
-TeethLogo_6.Image = "rbxassetid://8448529668"
-
-LabelSix.Name = "LabelSix"
-LabelSix.Parent = Oral_2
-LabelSix.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-LabelSix.BackgroundTransparency = 1.000
-LabelSix.Position = UDim2.new(0.356410086, 0, 0, 0)
-LabelSix.Size = UDim2.new(0, 98, 0, 25)
-LabelSix.ZIndex = 5
-LabelSix.Font = Enum.Font.Kalam
-LabelSix.Text = "SpeechUI"
-LabelSix.TextColor3 = Color3.fromRGB(0, 0, 0)
-LabelSix.TextScaled = true
-LabelSix.TextSize = 14.000
-LabelSix.TextWrapped = true
-
-Version_6.Name = "Version"
-Version_6.Parent = Oral_2
-Version_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-Version_6.BackgroundTransparency = 1.000
-Version_6.Position = UDim2.new(0.81794858, 0, 0, 0)
-Version_6.Size = UDim2.new(0, 35, 0, 25)
-Version_6.ZIndex = 5
-Version_6.Font = Enum.Font.Kalam
-Version_6.Text = "v 1.0"
-Version_6.TextColor3 = Color3.fromRGB(0, 0, 0)
-Version_6.TextScaled = true
-Version_6.TextSize = 14.000
-Version_6.TextWrapped = true
-
 CheckupFrame2.Name = "CheckupFrame2"
 CheckupFrame2.Parent = Backing
 CheckupFrame2.AnchorPoint = Vector2.new(0.5, 0.5)
@@ -610,18 +440,18 @@ CheckupFrame2.Size = UDim2.new(0, 195, 0, 335)
 CheckupFrame2.Visible = false
 CheckupFrame2.ZIndex = 4
 
-UICorner_20.CornerRadius = UDim.new(0, 12)
-UICorner_20.Parent = CheckupFrame2
+UICorner_16.CornerRadius = UDim.new(0, 12)
+UICorner_16.Parent = CheckupFrame2
 
-TeethLogo_7.Name = "TeethLogo"
-TeethLogo_7.Parent = CheckupFrame2
-TeethLogo_7.AnchorPoint = Vector2.new(0.5, 0.5)
-TeethLogo_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TeethLogo_7.BackgroundTransparency = 1.000
-TeethLogo_7.Position = UDim2.new(0.176922858, 0, 0.0895522386, 0)
-TeethLogo_7.Size = UDim2.new(0, 70, 0, 70)
-TeethLogo_7.ZIndex = 5
-TeethLogo_7.Image = "rbxassetid://8448529668"
+TeethLogo_3.Name = "TeethLogo"
+TeethLogo_3.Parent = CheckupFrame2
+TeethLogo_3.AnchorPoint = Vector2.new(0.5, 0.5)
+TeethLogo_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TeethLogo_3.BackgroundTransparency = 1.000
+TeethLogo_3.Position = UDim2.new(0.176922858, 0, 0.0895522386, 0)
+TeethLogo_3.Size = UDim2.new(0, 70, 0, 70)
+TeethLogo_3.ZIndex = 5
+TeethLogo_3.Image = "rbxassetid://8448529668"
 
 LabelTwo.Name = "LabelTwo"
 LabelTwo.Parent = CheckupFrame2
@@ -637,19 +467,19 @@ LabelTwo.TextScaled = true
 LabelTwo.TextSize = 14.000
 LabelTwo.TextWrapped = true
 
-Version_7.Name = "Version"
-Version_7.Parent = CheckupFrame2
-Version_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-Version_7.BackgroundTransparency = 1.000
-Version_7.Position = UDim2.new(0.81794858, 0, 0, 0)
-Version_7.Size = UDim2.new(0, 35, 0, 25)
-Version_7.ZIndex = 5
-Version_7.Font = Enum.Font.Kalam
-Version_7.Text = "v 1.0"
-Version_7.TextColor3 = Color3.fromRGB(0, 0, 0)
-Version_7.TextScaled = true
-Version_7.TextSize = 14.000
-Version_7.TextWrapped = true
+Version_3.Name = "Version"
+Version_3.Parent = CheckupFrame2
+Version_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Version_3.BackgroundTransparency = 1.000
+Version_3.Position = UDim2.new(0.81794858, 0, 0, 0)
+Version_3.Size = UDim2.new(0, 35, 0, 25)
+Version_3.ZIndex = 5
+Version_3.Font = Enum.Font.Kalam
+Version_3.Text = "v 1.0"
+Version_3.TextColor3 = Color3.fromRGB(0, 0, 0)
+Version_3.TextScaled = true
+Version_3.TextSize = 14.000
+Version_3.TextWrapped = true
 
 CheckupV1.Name = "CheckupV1"
 CheckupV1.Parent = CheckupFrame2
@@ -664,8 +494,8 @@ CheckupV1.TextScaled = true
 CheckupV1.TextSize = 14.000
 CheckupV1.TextWrapped = true
 
-UICorner_21.CornerRadius = UDim.new(0, 12)
-UICorner_21.Parent = CheckupV1
+UICorner_17.CornerRadius = UDim.new(0, 12)
+UICorner_17.Parent = CheckupV1
 
 CheckupV2.Name = "CheckupV2"
 CheckupV2.Parent = CheckupFrame2
@@ -680,8 +510,8 @@ CheckupV2.TextScaled = true
 CheckupV2.TextSize = 14.000
 CheckupV2.TextWrapped = true
 
-UICorner_22.CornerRadius = UDim.new(0, 12)
-UICorner_22.Parent = CheckupV2
+UICorner_18.CornerRadius = UDim.new(0, 12)
+UICorner_18.Parent = CheckupV2
 
 CheckupV4.Name = "CheckupV4"
 CheckupV4.Parent = CheckupFrame2
@@ -696,8 +526,8 @@ CheckupV4.TextScaled = true
 CheckupV4.TextSize = 14.000
 CheckupV4.TextWrapped = true
 
-UICorner_23.CornerRadius = UDim.new(0, 12)
-UICorner_23.Parent = CheckupV4
+UICorner_19.CornerRadius = UDim.new(0, 12)
+UICorner_19.Parent = CheckupV4
 
 CheckupV3.Name = "CheckupV3"
 CheckupV3.Parent = CheckupFrame2
@@ -712,8 +542,8 @@ CheckupV3.TextScaled = true
 CheckupV3.TextSize = 14.000
 CheckupV3.TextWrapped = true
 
-UICorner_24.CornerRadius = UDim.new(0, 12)
-UICorner_24.Parent = CheckupV3
+UICorner_20.CornerRadius = UDim.new(0, 12)
+UICorner_20.Parent = CheckupV3
 
 CheckUpV5.Name = "CheckUpV5"
 CheckUpV5.Parent = CheckupFrame2
@@ -728,8 +558,8 @@ CheckUpV5.TextScaled = true
 CheckUpV5.TextSize = 14.000
 CheckUpV5.TextWrapped = true
 
-UICorner_25.CornerRadius = UDim.new(0, 12)
-UICorner_25.Parent = CheckUpV5
+UICorner_21.CornerRadius = UDim.new(0, 12)
+UICorner_21.Parent = CheckUpV5
 
 CheckupBack.Name = "CheckupBack"
 CheckupBack.Parent = CheckupFrame2
@@ -744,83 +574,33 @@ CheckupBack.TextScaled = true
 CheckupBack.TextSize = 14.000
 CheckupBack.TextWrapped = true
 
-UICorner_26.CornerRadius = UDim.new(0, 12)
-UICorner_26.Parent = CheckupBack
+UICorner_22.CornerRadius = UDim.new(0, 12)
+UICorner_22.Parent = CheckupBack
 
-CleaningFrame.Name = "CleaningFrame"
-CleaningFrame.Parent = Backing
-CleaningFrame.AnchorPoint = Vector2.new(0.5, 0.5)
-CleaningFrame.BackgroundColor3 = Color3.fromRGB(0, 232, 170)
-CleaningFrame.Position = UDim2.new(0.5, 0, 0.5, 0)
-CleaningFrame.Size = UDim2.new(0, 195, 0, 335)
-CleaningFrame.Visible = false
-CleaningFrame.ZIndex = 4
+CleanupFrame.Name = "CleanupFrame"
+CleanupFrame.Parent = Backing
+CleanupFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+CleanupFrame.BackgroundColor3 = Color3.fromRGB(0, 232, 170)
+CleanupFrame.Position = UDim2.new(0.5, 0, 0.5, 0)
+CleanupFrame.Size = UDim2.new(0, 195, 0, 335)
+CleanupFrame.Visible = false
+CleanupFrame.ZIndex = 4
 
-UICorner_27.CornerRadius = UDim.new(0, 12)
-UICorner_27.Parent = CleaningFrame
+UICorner_23.CornerRadius = UDim.new(0, 12)
+UICorner_23.Parent = CleanupFrame
 
-TeethLogo_8.Name = "TeethLogo"
-TeethLogo_8.Parent = CleaningFrame
-TeethLogo_8.AnchorPoint = Vector2.new(0.5, 0.5)
-TeethLogo_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TeethLogo_8.BackgroundTransparency = 1.000
-TeethLogo_8.Position = UDim2.new(0.176922858, 0, 0.0895522386, 0)
-TeethLogo_8.Size = UDim2.new(0, 70, 0, 70)
-TeethLogo_8.ZIndex = 5
-TeethLogo_8.Image = "rbxassetid://8448529668"
-
-LabelThree.Name = "LabelThree"
-LabelThree.Parent = CleaningFrame
-LabelThree.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-LabelThree.BackgroundTransparency = 1.000
-LabelThree.Position = UDim2.new(0.356410086, 0, 0, 0)
-LabelThree.Size = UDim2.new(0, 98, 0, 25)
-LabelThree.ZIndex = 5
-LabelThree.Font = Enum.Font.Kalam
-LabelThree.Text = "SpeechUI"
-LabelThree.TextColor3 = Color3.fromRGB(0, 0, 0)
-LabelThree.TextScaled = true
-LabelThree.TextSize = 14.000
-LabelThree.TextWrapped = true
-
-Version_8.Name = "Version"
-Version_8.Parent = CleaningFrame
-Version_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-Version_8.BackgroundTransparency = 1.000
-Version_8.Position = UDim2.new(0.81794858, 0, 0, 0)
-Version_8.Size = UDim2.new(0, 35, 0, 25)
-Version_8.ZIndex = 5
-Version_8.Font = Enum.Font.Kalam
-Version_8.Text = "v 1.0"
-Version_8.TextColor3 = Color3.fromRGB(0, 0, 0)
-Version_8.TextScaled = true
-Version_8.TextSize = 14.000
-Version_8.TextWrapped = true
-
-CheckupFrame.Name = "CheckupFrame"
-CheckupFrame.Parent = Backing
-CheckupFrame.AnchorPoint = Vector2.new(0.5, 0.5)
-CheckupFrame.BackgroundColor3 = Color3.fromRGB(0, 232, 170)
-CheckupFrame.Position = UDim2.new(0.5, 0, 0.5, 0)
-CheckupFrame.Size = UDim2.new(0, 195, 0, 335)
-CheckupFrame.Visible = false
-CheckupFrame.ZIndex = 4
-
-UICorner_28.CornerRadius = UDim.new(0, 12)
-UICorner_28.Parent = CheckupFrame
-
-TeethLogo_9.Name = "TeethLogo"
-TeethLogo_9.Parent = CheckupFrame
-TeethLogo_9.AnchorPoint = Vector2.new(0.5, 0.5)
-TeethLogo_9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TeethLogo_9.BackgroundTransparency = 1.000
-TeethLogo_9.Position = UDim2.new(0.176922858, 0, 0.0895522386, 0)
-TeethLogo_9.Size = UDim2.new(0, 70, 0, 70)
-TeethLogo_9.ZIndex = 5
-TeethLogo_9.Image = "rbxassetid://8448529668"
+TeethLogo_4.Name = "TeethLogo"
+TeethLogo_4.Parent = CleanupFrame
+TeethLogo_4.AnchorPoint = Vector2.new(0.5, 0.5)
+TeethLogo_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TeethLogo_4.BackgroundTransparency = 1.000
+TeethLogo_4.Position = UDim2.new(0.176922858, 0, 0.0895522386, 0)
+TeethLogo_4.Size = UDim2.new(0, 70, 0, 70)
+TeethLogo_4.ZIndex = 5
+TeethLogo_4.Image = "rbxassetid://8448529668"
 
 LabelOne.Name = "LabelOne"
-LabelOne.Parent = CheckupFrame
+LabelOne.Parent = CleanupFrame
 LabelOne.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 LabelOne.BackgroundTransparency = 1.000
 LabelOne.Position = UDim2.new(0.356410086, 0, 0, 0)
@@ -833,22 +613,22 @@ LabelOne.TextScaled = true
 LabelOne.TextSize = 14.000
 LabelOne.TextWrapped = true
 
-Version_9.Name = "Version"
-Version_9.Parent = CheckupFrame
-Version_9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-Version_9.BackgroundTransparency = 1.000
-Version_9.Position = UDim2.new(0.81794858, 0, 0, 0)
-Version_9.Size = UDim2.new(0, 35, 0, 25)
-Version_9.ZIndex = 5
-Version_9.Font = Enum.Font.Kalam
-Version_9.Text = "v 1.0"
-Version_9.TextColor3 = Color3.fromRGB(0, 0, 0)
-Version_9.TextScaled = true
-Version_9.TextSize = 14.000
-Version_9.TextWrapped = true
+Version_4.Name = "Version"
+Version_4.Parent = CleanupFrame
+Version_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Version_4.BackgroundTransparency = 1.000
+Version_4.Position = UDim2.new(0.81794858, 0, 0, 0)
+Version_4.Size = UDim2.new(0, 35, 0, 25)
+Version_4.ZIndex = 5
+Version_4.Font = Enum.Font.Kalam
+Version_4.Text = "v 1.0"
+Version_4.TextColor3 = Color3.fromRGB(0, 0, 0)
+Version_4.TextScaled = true
+Version_4.TextSize = 14.000
+Version_4.TextWrapped = true
 
 Greeting.Name = "Greeting"
-Greeting.Parent = CheckupFrame
+Greeting.Parent = CleanupFrame
 Greeting.BackgroundColor3 = Color3.fromRGB(0, 200, 140)
 Greeting.Position = UDim2.new(0.0695148185, 0, 0.226865679, 0)
 Greeting.Size = UDim2.new(0, 77, 0, 50)
@@ -860,8 +640,202 @@ Greeting.TextScaled = true
 Greeting.TextSize = 14.000
 Greeting.TextWrapped = true
 
+UICorner_24.CornerRadius = UDim.new(0, 12)
+UICorner_24.Parent = Greeting
+
+DSCLUQ1.Name = "DSCLUQ1"
+DSCLUQ1.Parent = CleanupFrame
+DSCLUQ1.BackgroundColor3 = Color3.fromRGB(0, 200, 140)
+DSCLUQ1.Position = UDim2.new(0.531053305, 0, 0.226865679, 0)
+DSCLUQ1.Size = UDim2.new(0, 77, 0, 50)
+DSCLUQ1.ZIndex = 6
+DSCLUQ1.Font = Enum.Font.Kalam
+DSCLUQ1.Text = "Flossing and Brushing?"
+DSCLUQ1.TextColor3 = Color3.fromRGB(0, 0, 0)
+DSCLUQ1.TextScaled = true
+DSCLUQ1.TextSize = 14.000
+DSCLUQ1.TextWrapped = true
+
+UICorner_25.CornerRadius = UDim.new(0, 12)
+UICorner_25.Parent = DSCLUQ1
+
+DSCLUQ3.Name = "DSCLUQ3"
+DSCLUQ3.Parent = CleanupFrame
+DSCLUQ3.BackgroundColor3 = Color3.fromRGB(0, 200, 140)
+DSCLUQ3.Position = UDim2.new(0.531538486, 0, 0.397910446, 0)
+DSCLUQ3.Size = UDim2.new(0, 77, 0, 50)
+DSCLUQ3.ZIndex = 6
+DSCLUQ3.Font = Enum.Font.Kalam
+DSCLUQ3.Text = "Scale teeth"
+DSCLUQ3.TextColor3 = Color3.fromRGB(0, 0, 0)
+DSCLUQ3.TextScaled = true
+DSCLUQ3.TextSize = 14.000
+DSCLUQ3.TextWrapped = true
+
+UICorner_26.CornerRadius = UDim.new(0, 12)
+UICorner_26.Parent = DSCLUQ3
+
+DSCLUQ2.Name = "DSCLUQ2"
+DSCLUQ2.Parent = CleanupFrame
+DSCLUQ2.BackgroundColor3 = Color3.fromRGB(0, 200, 140)
+DSCLUQ2.Position = UDim2.new(0.0700000003, 0, 0.397910446, 0)
+DSCLUQ2.Size = UDim2.new(0, 77, 0, 50)
+DSCLUQ2.ZIndex = 6
+DSCLUQ2.Font = Enum.Font.Kalam
+DSCLUQ2.Text = "Say Ahh!"
+DSCLUQ2.TextColor3 = Color3.fromRGB(0, 0, 0)
+DSCLUQ2.TextScaled = true
+DSCLUQ2.TextSize = 14.000
+DSCLUQ2.TextWrapped = true
+
+UICorner_27.CornerRadius = UDim.new(0, 12)
+UICorner_27.Parent = DSCLUQ2
+
+DSCLUQ5.Name = "DSCLUQ5"
+DSCLUQ5.Parent = CleanupFrame
+DSCLUQ5.BackgroundColor3 = Color3.fromRGB(0, 200, 140)
+DSCLUQ5.Position = UDim2.new(0.531538486, 0, 0.565074623, 0)
+DSCLUQ5.Size = UDim2.new(0, 77, 0, 50)
+DSCLUQ5.ZIndex = 6
+DSCLUQ5.Font = Enum.Font.Kalam
+DSCLUQ5.Text = "What toothpaste flavour?"
+DSCLUQ5.TextColor3 = Color3.fromRGB(0, 0, 0)
+DSCLUQ5.TextScaled = true
+DSCLUQ5.TextSize = 14.000
+DSCLUQ5.TextWrapped = true
+
+UICorner_28.CornerRadius = UDim.new(0, 12)
+UICorner_28.Parent = DSCLUQ5
+
+DSCLUQ4.Name = "DSCLUQ4"
+DSCLUQ4.Parent = CleanupFrame
+DSCLUQ4.BackgroundColor3 = Color3.fromRGB(0, 200, 140)
+DSCLUQ4.Position = UDim2.new(0.0700000003, 0, 0.565074623, 0)
+DSCLUQ4.Size = UDim2.new(0, 77, 0, 50)
+DSCLUQ4.ZIndex = 6
+DSCLUQ4.Font = Enum.Font.Kalam
+DSCLUQ4.Text = "Rinse teeth"
+DSCLUQ4.TextColor3 = Color3.fromRGB(0, 0, 0)
+DSCLUQ4.TextScaled = true
+DSCLUQ4.TextSize = 14.000
+DSCLUQ4.TextWrapped = true
+
 UICorner_29.CornerRadius = UDim.new(0, 12)
-UICorner_29.Parent = Greeting
+UICorner_29.Parent = DSCLUQ4
+
+NextPageDAC.Name = "NextPageDAC"
+NextPageDAC.Parent = CleanupFrame
+NextPageDAC.BackgroundColor3 = Color3.fromRGB(0, 200, 140)
+NextPageDAC.Position = UDim2.new(0.310256243, 0, 0.902388036, 0)
+NextPageDAC.Size = UDim2.new(0, 74, 0, 19)
+NextPageDAC.ZIndex = 6
+NextPageDAC.Font = Enum.Font.Kalam
+NextPageDAC.Text = ">"
+NextPageDAC.TextColor3 = Color3.fromRGB(0, 0, 0)
+NextPageDAC.TextScaled = true
+NextPageDAC.TextSize = 14.000
+NextPageDAC.TextWrapped = true
+
+UICorner_30.CornerRadius = UDim.new(0, 12)
+UICorner_30.Parent = NextPageDAC
+
+DSCLUQ6.Name = "DSCLUQ6"
+DSCLUQ6.Parent = CleanupFrame
+DSCLUQ6.BackgroundColor3 = Color3.fromRGB(0, 200, 140)
+DSCLUQ6.Position = UDim2.new(0.0700000003, 0, 0.73223877, 0)
+DSCLUQ6.Size = UDim2.new(0, 77, 0, 50)
+DSCLUQ6.ZIndex = 6
+DSCLUQ6.Font = Enum.Font.Kalam
+DSCLUQ6.Text = "Flavor menu"
+DSCLUQ6.TextColor3 = Color3.fromRGB(0, 0, 0)
+DSCLUQ6.TextScaled = true
+DSCLUQ6.TextSize = 14.000
+DSCLUQ6.TextWrapped = true
+
+UICorner_31.CornerRadius = UDim.new(0, 12)
+UICorner_31.Parent = DSCLUQ6
+
+DSCLUQ7.Name = "DSCLUQ7"
+DSCLUQ7.Parent = CleanupFrame
+DSCLUQ7.BackgroundColor3 = Color3.fromRGB(0, 200, 140)
+DSCLUQ7.Position = UDim2.new(0.531538486, 0, 0.73223877, 0)
+DSCLUQ7.Size = UDim2.new(0, 77, 0, 50)
+DSCLUQ7.ZIndex = 6
+DSCLUQ7.Font = Enum.Font.Kalam
+DSCLUQ7.Text = "Rinse again"
+DSCLUQ7.TextColor3 = Color3.fromRGB(0, 0, 0)
+DSCLUQ7.TextScaled = true
+DSCLUQ7.TextSize = 14.000
+DSCLUQ7.TextWrapped = true
+
+UICorner_32.CornerRadius = UDim.new(0, 12)
+UICorner_32.Parent = DSCLUQ7
+
+CheckupFrame.Name = "CheckupFrame"
+CheckupFrame.Parent = Backing
+CheckupFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+CheckupFrame.BackgroundColor3 = Color3.fromRGB(0, 232, 170)
+CheckupFrame.Position = UDim2.new(0.5, 0, 0.5, 0)
+CheckupFrame.Size = UDim2.new(0, 195, 0, 335)
+CheckupFrame.Visible = false
+CheckupFrame.ZIndex = 4
+
+UICorner_33.CornerRadius = UDim.new(0, 12)
+UICorner_33.Parent = CheckupFrame
+
+TeethLogo_5.Name = "TeethLogo"
+TeethLogo_5.Parent = CheckupFrame
+TeethLogo_5.AnchorPoint = Vector2.new(0.5, 0.5)
+TeethLogo_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TeethLogo_5.BackgroundTransparency = 1.000
+TeethLogo_5.Position = UDim2.new(0.176922858, 0, 0.0895522386, 0)
+TeethLogo_5.Size = UDim2.new(0, 70, 0, 70)
+TeethLogo_5.ZIndex = 5
+TeethLogo_5.Image = "rbxassetid://8448529668"
+
+LabelOne_2.Name = "LabelOne"
+LabelOne_2.Parent = CheckupFrame
+LabelOne_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+LabelOne_2.BackgroundTransparency = 1.000
+LabelOne_2.Position = UDim2.new(0.356410086, 0, 0, 0)
+LabelOne_2.Size = UDim2.new(0, 98, 0, 25)
+LabelOne_2.ZIndex = 5
+LabelOne_2.Font = Enum.Font.Kalam
+LabelOne_2.Text = "SpeechUI"
+LabelOne_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+LabelOne_2.TextScaled = true
+LabelOne_2.TextSize = 14.000
+LabelOne_2.TextWrapped = true
+
+Version_5.Name = "Version"
+Version_5.Parent = CheckupFrame
+Version_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Version_5.BackgroundTransparency = 1.000
+Version_5.Position = UDim2.new(0.81794858, 0, 0, 0)
+Version_5.Size = UDim2.new(0, 35, 0, 25)
+Version_5.ZIndex = 5
+Version_5.Font = Enum.Font.Kalam
+Version_5.Text = "v 1.0"
+Version_5.TextColor3 = Color3.fromRGB(0, 0, 0)
+Version_5.TextScaled = true
+Version_5.TextSize = 14.000
+Version_5.TextWrapped = true
+
+Greeting_2.Name = "Greeting"
+Greeting_2.Parent = CheckupFrame
+Greeting_2.BackgroundColor3 = Color3.fromRGB(0, 200, 140)
+Greeting_2.Position = UDim2.new(0.0695148185, 0, 0.226865679, 0)
+Greeting_2.Size = UDim2.new(0, 77, 0, 50)
+Greeting_2.ZIndex = 6
+Greeting_2.Font = Enum.Font.Kalam
+Greeting_2.Text = "Greeting"
+Greeting_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+Greeting_2.TextScaled = true
+Greeting_2.TextSize = 14.000
+Greeting_2.TextWrapped = true
+
+UICorner_34.CornerRadius = UDim.new(0, 12)
+UICorner_34.Parent = Greeting_2
 
 DSCUQ1.Name = "DSCUQ1"
 DSCUQ1.Parent = CheckupFrame
@@ -876,8 +850,8 @@ DSCUQ1.TextScaled = true
 DSCUQ1.TextSize = 14.000
 DSCUQ1.TextWrapped = true
 
-UICorner_30.CornerRadius = UDim.new(0, 12)
-UICorner_30.Parent = DSCUQ1
+UICorner_35.CornerRadius = UDim.new(0, 12)
+UICorner_35.Parent = DSCUQ1
 
 DSCUQ3.Name = "DSCUQ3"
 DSCUQ3.Parent = CheckupFrame
@@ -892,8 +866,8 @@ DSCUQ3.TextScaled = true
 DSCUQ3.TextSize = 14.000
 DSCUQ3.TextWrapped = true
 
-UICorner_31.CornerRadius = UDim.new(0, 12)
-UICorner_31.Parent = DSCUQ3
+UICorner_36.CornerRadius = UDim.new(0, 12)
+UICorner_36.Parent = DSCUQ3
 
 DSCUQ2.Name = "DSCUQ2"
 DSCUQ2.Parent = CheckupFrame
@@ -908,8 +882,8 @@ DSCUQ2.TextScaled = true
 DSCUQ2.TextSize = 14.000
 DSCUQ2.TextWrapped = true
 
-UICorner_32.CornerRadius = UDim.new(0, 12)
-UICorner_32.Parent = DSCUQ2
+UICorner_37.CornerRadius = UDim.new(0, 12)
+UICorner_37.Parent = DSCUQ2
 
 DSCUQ5.Name = "DSCUQ5"
 DSCUQ5.Parent = CheckupFrame
@@ -924,8 +898,8 @@ DSCUQ5.TextScaled = true
 DSCUQ5.TextSize = 14.000
 DSCUQ5.TextWrapped = true
 
-UICorner_33.CornerRadius = UDim.new(0, 12)
-UICorner_33.Parent = DSCUQ5
+UICorner_38.CornerRadius = UDim.new(0, 12)
+UICorner_38.Parent = DSCUQ5
 
 DSCUQ4.Name = "DSCUQ4"
 DSCUQ4.Parent = CheckupFrame
@@ -940,8 +914,8 @@ DSCUQ4.TextScaled = true
 DSCUQ4.TextSize = 14.000
 DSCUQ4.TextWrapped = true
 
-UICorner_34.CornerRadius = UDim.new(0, 12)
-UICorner_34.Parent = DSCUQ4
+UICorner_39.CornerRadius = UDim.new(0, 12)
+UICorner_39.Parent = DSCUQ4
 
 DSCUQ6.Name = "DSCUQ6"
 DSCUQ6.Parent = CheckupFrame
@@ -956,8 +930,8 @@ DSCUQ6.TextScaled = true
 DSCUQ6.TextSize = 14.000
 DSCUQ6.TextWrapped = true
 
-UICorner_35.CornerRadius = UDim.new(0, 12)
-UICorner_35.Parent = DSCUQ6
+UICorner_40.CornerRadius = UDim.new(0, 12)
+UICorner_40.Parent = DSCUQ6
 
 NextPageDA.Name = "NextPageDA"
 NextPageDA.Parent = CheckupFrame
@@ -972,8 +946,268 @@ NextPageDA.TextScaled = true
 NextPageDA.TextSize = 14.000
 NextPageDA.TextWrapped = true
 
-UICorner_36.CornerRadius = UDim.new(0, 12)
-UICorner_36.Parent = NextPageDA
+UICorner_41.CornerRadius = UDim.new(0, 12)
+UICorner_41.Parent = NextPageDA
+
+CleanupFrame2.Name = "CleanupFrame2"
+CleanupFrame2.Parent = Backing
+CleanupFrame2.AnchorPoint = Vector2.new(0.5, 0.5)
+CleanupFrame2.BackgroundColor3 = Color3.fromRGB(0, 232, 170)
+CleanupFrame2.Position = UDim2.new(0.5, 0, 0.5, 0)
+CleanupFrame2.Size = UDim2.new(0, 195, 0, 335)
+CleanupFrame2.Visible = false
+CleanupFrame2.ZIndex = 4
+
+UICorner_42.CornerRadius = UDim.new(0, 12)
+UICorner_42.Parent = CleanupFrame2
+
+TeethLogo_6.Name = "TeethLogo"
+TeethLogo_6.Parent = CleanupFrame2
+TeethLogo_6.AnchorPoint = Vector2.new(0.5, 0.5)
+TeethLogo_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TeethLogo_6.BackgroundTransparency = 1.000
+TeethLogo_6.Position = UDim2.new(0.176922858, 0, 0.0895522386, 0)
+TeethLogo_6.Size = UDim2.new(0, 70, 0, 70)
+TeethLogo_6.ZIndex = 5
+TeethLogo_6.Image = "rbxassetid://8448529668"
+
+LabelOne_3.Name = "LabelOne"
+LabelOne_3.Parent = CleanupFrame2
+LabelOne_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+LabelOne_3.BackgroundTransparency = 1.000
+LabelOne_3.Position = UDim2.new(0.356410086, 0, 0, 0)
+LabelOne_3.Size = UDim2.new(0, 98, 0, 25)
+LabelOne_3.ZIndex = 5
+LabelOne_3.Font = Enum.Font.Kalam
+LabelOne_3.Text = "SpeechUI"
+LabelOne_3.TextColor3 = Color3.fromRGB(0, 0, 0)
+LabelOne_3.TextScaled = true
+LabelOne_3.TextSize = 14.000
+LabelOne_3.TextWrapped = true
+
+Version_6.Name = "Version"
+Version_6.Parent = CleanupFrame2
+Version_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Version_6.BackgroundTransparency = 1.000
+Version_6.Position = UDim2.new(0.81794858, 0, 0, 0)
+Version_6.Size = UDim2.new(0, 35, 0, 25)
+Version_6.ZIndex = 5
+Version_6.Font = Enum.Font.Kalam
+Version_6.Text = "v 1.0"
+Version_6.TextColor3 = Color3.fromRGB(0, 0, 0)
+Version_6.TextScaled = true
+Version_6.TextSize = 14.000
+Version_6.TextWrapped = true
+
+DSCLUQ9.Name = "DSCLUQ9"
+DSCLUQ9.Parent = CleanupFrame2
+DSCLUQ9.BackgroundColor3 = Color3.fromRGB(0, 200, 140)
+DSCLUQ9.Position = UDim2.new(0.531538427, 0, 0.226865679, 0)
+DSCLUQ9.Size = UDim2.new(0, 76, 0, 50)
+DSCLUQ9.ZIndex = 6
+DSCLUQ9.Font = Enum.Font.Kalam
+DSCLUQ9.Text = "Floss"
+DSCLUQ9.TextColor3 = Color3.fromRGB(0, 0, 0)
+DSCLUQ9.TextScaled = true
+DSCLUQ9.TextSize = 14.000
+DSCLUQ9.TextWrapped = true
+
+UICorner_43.CornerRadius = UDim.new(0, 12)
+UICorner_43.Parent = DSCLUQ9
+
+DSCLUQ11.Name = "DSCLUQ11"
+DSCLUQ11.Parent = CleanupFrame2
+DSCLUQ11.BackgroundColor3 = Color3.fromRGB(0, 200, 140)
+DSCLUQ11.Position = UDim2.new(0.531538427, 0, 0.397910357, 0)
+DSCLUQ11.Size = UDim2.new(0, 76, 0, 50)
+DSCLUQ11.ZIndex = 6
+DSCLUQ11.Font = Enum.Font.Kalam
+DSCLUQ11.Text = "bye bitch"
+DSCLUQ11.TextColor3 = Color3.fromRGB(0, 0, 0)
+DSCLUQ11.TextScaled = true
+DSCLUQ11.TextSize = 14.000
+DSCLUQ11.TextWrapped = true
+
+UICorner_44.CornerRadius = UDim.new(0, 12)
+UICorner_44.Parent = DSCLUQ11
+
+LastPageDAC.Name = "LastPageDAC"
+LastPageDAC.Parent = CleanupFrame2
+LastPageDAC.BackgroundColor3 = Color3.fromRGB(0, 200, 140)
+LastPageDAC.Position = UDim2.new(0.310256243, 0, 0.902388036, 0)
+LastPageDAC.Size = UDim2.new(0, 74, 0, 19)
+LastPageDAC.ZIndex = 6
+LastPageDAC.Font = Enum.Font.Kalam
+LastPageDAC.Text = "<"
+LastPageDAC.TextColor3 = Color3.fromRGB(0, 0, 0)
+LastPageDAC.TextScaled = true
+LastPageDAC.TextSize = 14.000
+LastPageDAC.TextWrapped = true
+
+UICorner_45.CornerRadius = UDim.new(0, 12)
+UICorner_45.Parent = LastPageDAC
+
+DSCLUQ8.Name = "DSCLUQ8"
+DSCLUQ8.Parent = CleanupFrame2
+DSCLUQ8.BackgroundColor3 = Color3.fromRGB(0, 200, 140)
+DSCLUQ8.Position = UDim2.new(0.0699999705, 0, 0.226865679, 0)
+DSCLUQ8.Size = UDim2.new(0, 77, 0, 50)
+DSCLUQ8.ZIndex = 6
+DSCLUQ8.Font = Enum.Font.Kalam
+DSCLUQ8.Text = "Suction leftover junk"
+DSCLUQ8.TextColor3 = Color3.fromRGB(0, 0, 0)
+DSCLUQ8.TextScaled = true
+DSCLUQ8.TextSize = 14.000
+DSCLUQ8.TextWrapped = true
+
+UICorner_46.CornerRadius = UDim.new(0, 12)
+UICorner_46.Parent = DSCLUQ8
+
+DSCLUQ10.Name = "DSCLUQ10"
+DSCLUQ10.Parent = CleanupFrame2
+DSCLUQ10.BackgroundColor3 = Color3.fromRGB(0, 200, 140)
+DSCLUQ10.Position = UDim2.new(0.0699999705, 0, 0.397910446, 0)
+DSCLUQ10.Size = UDim2.new(0, 77, 0, 50)
+DSCLUQ10.ZIndex = 6
+DSCLUQ10.Font = Enum.Font.Kalam
+DSCLUQ10.Text = "Smile!"
+DSCLUQ10.TextColor3 = Color3.fromRGB(0, 0, 0)
+DSCLUQ10.TextScaled = true
+DSCLUQ10.TextSize = 14.000
+DSCLUQ10.TextWrapped = true
+
+UICorner_47.CornerRadius = UDim.new(0, 12)
+UICorner_47.Parent = DSCLUQ10
+
+FlavorMenu.Name = "FlavorMenu"
+FlavorMenu.Parent = Backing
+FlavorMenu.AnchorPoint = Vector2.new(0.5, 0.5)
+FlavorMenu.BackgroundColor3 = Color3.fromRGB(0, 232, 170)
+FlavorMenu.Position = UDim2.new(0.5, 0, 0.5, 0)
+FlavorMenu.Size = UDim2.new(0, 195, 0, 335)
+FlavorMenu.Visible = false
+FlavorMenu.ZIndex = 4
+
+UICorner_48.CornerRadius = UDim.new(0, 12)
+UICorner_48.Parent = FlavorMenu
+
+TeethLogo_7.Name = "TeethLogo"
+TeethLogo_7.Parent = FlavorMenu
+TeethLogo_7.AnchorPoint = Vector2.new(0.5, 0.5)
+TeethLogo_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TeethLogo_7.BackgroundTransparency = 1.000
+TeethLogo_7.Position = UDim2.new(0.176922858, 0, 0.0895522386, 0)
+TeethLogo_7.Size = UDim2.new(0, 70, 0, 70)
+TeethLogo_7.ZIndex = 5
+TeethLogo_7.Image = "rbxassetid://8448529668"
+
+LabelOne_4.Name = "LabelOne"
+LabelOne_4.Parent = FlavorMenu
+LabelOne_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+LabelOne_4.BackgroundTransparency = 1.000
+LabelOne_4.Position = UDim2.new(0.356410086, 0, 0, 0)
+LabelOne_4.Size = UDim2.new(0, 98, 0, 25)
+LabelOne_4.ZIndex = 5
+LabelOne_4.Font = Enum.Font.Kalam
+LabelOne_4.Text = "SpeechUI"
+LabelOne_4.TextColor3 = Color3.fromRGB(0, 0, 0)
+LabelOne_4.TextScaled = true
+LabelOne_4.TextSize = 14.000
+LabelOne_4.TextWrapped = true
+
+Version_7.Name = "Version"
+Version_7.Parent = FlavorMenu
+Version_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Version_7.BackgroundTransparency = 1.000
+Version_7.Position = UDim2.new(0.81794858, 0, 0, 0)
+Version_7.Size = UDim2.new(0, 35, 0, 25)
+Version_7.ZIndex = 5
+Version_7.Font = Enum.Font.Kalam
+Version_7.Text = "v 1.0"
+Version_7.TextColor3 = Color3.fromRGB(0, 0, 0)
+Version_7.TextScaled = true
+Version_7.TextSize = 14.000
+Version_7.TextWrapped = true
+
+FlavorB1.Name = "FlavorB1"
+FlavorB1.Parent = FlavorMenu
+FlavorB1.BackgroundColor3 = Color3.fromRGB(0, 200, 140)
+FlavorB1.Position = UDim2.new(0.0695148185, 0, 0.226865679, 0)
+FlavorB1.Size = UDim2.new(0, 77, 0, 50)
+FlavorB1.ZIndex = 6
+FlavorB1.Font = Enum.Font.Kalam
+FlavorB1.Text = "Cinnamon"
+FlavorB1.TextColor3 = Color3.fromRGB(0, 0, 0)
+FlavorB1.TextScaled = true
+FlavorB1.TextSize = 14.000
+FlavorB1.TextWrapped = true
+
+UICorner_49.CornerRadius = UDim.new(0, 12)
+UICorner_49.Parent = FlavorB1
+
+FlavorB2.Name = "FlavorB2"
+FlavorB2.Parent = FlavorMenu
+FlavorB2.BackgroundColor3 = Color3.fromRGB(0, 200, 140)
+FlavorB2.Position = UDim2.new(0.531053305, 0, 0.226865679, 0)
+FlavorB2.Size = UDim2.new(0, 77, 0, 50)
+FlavorB2.ZIndex = 6
+FlavorB2.Font = Enum.Font.Kalam
+FlavorB2.Text = "Strawberry"
+FlavorB2.TextColor3 = Color3.fromRGB(0, 0, 0)
+FlavorB2.TextScaled = true
+FlavorB2.TextSize = 14.000
+FlavorB2.TextWrapped = true
+
+UICorner_50.CornerRadius = UDim.new(0, 12)
+UICorner_50.Parent = FlavorB2
+
+FlavorB4.Name = "FlavorB4"
+FlavorB4.Parent = FlavorMenu
+FlavorB4.BackgroundColor3 = Color3.fromRGB(0, 200, 140)
+FlavorB4.Position = UDim2.new(0.531538427, 0, 0.397910446, 0)
+FlavorB4.Size = UDim2.new(0, 76, 0, 50)
+FlavorB4.ZIndex = 6
+FlavorB4.Font = Enum.Font.Kalam
+FlavorB4.Text = "Bubblegum"
+FlavorB4.TextColor3 = Color3.fromRGB(0, 0, 0)
+FlavorB4.TextScaled = true
+FlavorB4.TextSize = 23.000
+FlavorB4.TextWrapped = true
+
+UICorner_51.CornerRadius = UDim.new(0, 12)
+UICorner_51.Parent = FlavorB4
+
+FlavorB3.Name = "FlavorB3"
+FlavorB3.Parent = FlavorMenu
+FlavorB3.BackgroundColor3 = Color3.fromRGB(0, 200, 140)
+FlavorB3.Position = UDim2.new(0.0700000003, 0, 0.397910446, 0)
+FlavorB3.Size = UDim2.new(0, 77, 0, 50)
+FlavorB3.ZIndex = 6
+FlavorB3.Font = Enum.Font.Kalam
+FlavorB3.Text = "Mint"
+FlavorB3.TextColor3 = Color3.fromRGB(0, 0, 0)
+FlavorB3.TextScaled = true
+FlavorB3.TextSize = 14.000
+FlavorB3.TextWrapped = true
+
+UICorner_52.CornerRadius = UDim.new(0, 12)
+UICorner_52.Parent = FlavorB3
+
+BackPageFlavor.Name = "BackPageFlavor"
+BackPageFlavor.Parent = FlavorMenu
+BackPageFlavor.BackgroundColor3 = Color3.fromRGB(0, 200, 140)
+BackPageFlavor.Position = UDim2.new(0.310256243, 0, 0.902388036, 0)
+BackPageFlavor.Size = UDim2.new(0, 74, 0, 19)
+BackPageFlavor.ZIndex = 6
+BackPageFlavor.Font = Enum.Font.Kalam
+BackPageFlavor.Text = "<"
+BackPageFlavor.TextColor3 = Color3.fromRGB(0, 0, 0)
+BackPageFlavor.TextScaled = true
+BackPageFlavor.TextSize = 14.000
+BackPageFlavor.TextWrapped = true
+
+UICorner_53.CornerRadius = UDim.new(0, 12)
+UICorner_53.Parent = BackPageFlavor
 
 Home.Name = "Home"
 Home.Parent = Frame
@@ -981,19 +1215,31 @@ Home.AnchorPoint = Vector2.new(0.5, 0.5)
 Home.BackgroundColor3 = Color3.fromRGB(0, 190, 133)
 Home.BackgroundTransparency = 0.500
 Home.BorderSizePixel = 0
-Home.Position = UDim2.new(0.498888552, 0, 2.17000008, 0)
-Home.Size = UDim2.new(0, 204, 0, 25)
+Home.ClipsDescendants = true
+Home.Position = UDim2.new(0.5, 0, 0.979710162, 0)
+Home.Size = UDim2.new(0, 205, 0, 25)
+Home.SizeConstraint = Enum.SizeConstraint.RelativeYY
 Home.Font = Enum.Font.SourceSans
 Home.Text = ""
 Home.TextColor3 = Color3.fromRGB(0, 0, 0)
 Home.TextSize = 14.000
 
-UICorner_37.CornerRadius = UDim.new(0, 12)
-UICorner_37.Parent = Home
+UICorner_54.CornerRadius = UDim.new(0, 12)
+UICorner_54.Parent = Home
 
 -- Scripts:
 
-local function VLPUX_fake_script() -- DentalAssistant.LocalScript 
+local function RURO_fake_script() -- MusicOff.Script 
+	local script = Instance.new('Script', MusicOff)
+
+	function lclick()
+		game.Workspace.GameMusic:Destroy()
+	end
+	
+	script.Parent.MouseButton1Click:Connect(lclick)
+end
+coroutine.wrap(RURO_fake_script)()
+local function MKSYD_fake_script() -- DentalAssistant.LocalScript 
 	local script = Instance.new('LocalScript', DentalAssistant)
 
 	local DentalAssistantButton = script.Parent
@@ -1008,8 +1254,8 @@ local function VLPUX_fake_script() -- DentalAssistant.LocalScript
 	
 	DentalAssistantButton.MouseButton1Click:Connect(lclick)
 end
-coroutine.wrap(VLPUX_fake_script)()
-local function VVZXLX_fake_script() -- Uniform.Script 
+coroutine.wrap(MKSYD_fake_script)()
+local function JMQL_fake_script() -- Uniform.Script 
 	local script = Instance.new('Script', Uniform)
 
 	local UniformButton = script.parent
@@ -1023,8 +1269,8 @@ local function VVZXLX_fake_script() -- Uniform.Script
 	
 	
 end
-coroutine.wrap(VVZXLX_fake_script)()
-local function BNQH_fake_script() -- CheckUp.LocalScript 
+coroutine.wrap(JMQL_fake_script)()
+local function VGVLX_fake_script() -- CheckUp.LocalScript 
 	local script = Instance.new('LocalScript', CheckUp)
 
 	local CheckUpButton = script.Parent
@@ -1039,8 +1285,24 @@ local function BNQH_fake_script() -- CheckUp.LocalScript
 	
 	CheckUpButton.MouseButton1Click:Connect(lclick)
 end
-coroutine.wrap(BNQH_fake_script)()
-local function PDHTOE_fake_script() -- CheckupV1.Script 
+coroutine.wrap(VGVLX_fake_script)()
+local function HOOHP_fake_script() -- Cleaning.LocalScript 
+	local script = Instance.new('LocalScript', Cleaning)
+
+	local CleanUpButton = script.Parent
+	
+	local DentalAid = game.CoreGui.FagShit.Frame.Backing.DentalAid
+	local CleanUpFrame = game.CoreGui.FagShit.Frame.Backing.CleanupFrame
+	
+	function lclick()
+		CleanUpFrame.Visible = true
+		DentalAid.Visible = false
+	end
+	
+	CleanUpButton.MouseButton1Click:Connect(lclick)
+end
+coroutine.wrap(HOOHP_fake_script)()
+local function JMSHFP_fake_script() -- CheckupV1.Script 
 	local script = Instance.new('Script', CheckupV1)
 
 	local DAV1Button = script.Parent
@@ -1055,8 +1317,8 @@ local function PDHTOE_fake_script() -- CheckupV1.Script
 	
 	DAV1Button.MouseButton1Click:Connect(lclick)
 end
-coroutine.wrap(PDHTOE_fake_script)()
-local function UBEPNXH_fake_script() -- CheckupV2.Script 
+coroutine.wrap(JMSHFP_fake_script)()
+local function GIAQS_fake_script() -- CheckupV2.Script 
 	local script = Instance.new('Script', CheckupV2)
 
 	local DAV2Button = script.Parent
@@ -1071,8 +1333,8 @@ local function UBEPNXH_fake_script() -- CheckupV2.Script
 	
 	DAV2Button.MouseButton1Click:Connect(lclick)
 end
-coroutine.wrap(UBEPNXH_fake_script)()
-local function LXZQOV_fake_script() -- CheckupV4.Script 
+coroutine.wrap(GIAQS_fake_script)()
+local function MVUTHT_fake_script() -- CheckupV4.Script 
 	local script = Instance.new('Script', CheckupV4)
 
 	local DAV4Button = script.Parent
@@ -1087,8 +1349,8 @@ local function LXZQOV_fake_script() -- CheckupV4.Script
 	
 	DAV4Button.MouseButton1Click:Connect(lclick)
 end
-coroutine.wrap(LXZQOV_fake_script)()
-local function WPHAZ_fake_script() -- CheckupV3.Script 
+coroutine.wrap(MVUTHT_fake_script)()
+local function WDRC_fake_script() -- CheckupV3.Script 
 	local script = Instance.new('Script', CheckupV3)
 
 	local DAV3Button = script.Parent
@@ -1103,8 +1365,8 @@ local function WPHAZ_fake_script() -- CheckupV3.Script
 	
 	DAV3Button.MouseButton1Click:Connect(lclick)
 end
-coroutine.wrap(WPHAZ_fake_script)()
-local function KDFJTOW_fake_script() -- CheckUpV5.Script 
+coroutine.wrap(WDRC_fake_script)()
+local function SEYW_fake_script() -- CheckUpV5.Script 
 	local script = Instance.new('Script', CheckUpV5)
 
 	local DAV5Button = script.Parent
@@ -1119,8 +1381,8 @@ local function KDFJTOW_fake_script() -- CheckUpV5.Script
 	
 	DAV5Button.MouseButton1Click:Connect(lclick)
 end
-coroutine.wrap(KDFJTOW_fake_script)()
-local function XEIHK_fake_script() -- CheckupBack.LocalScript 
+coroutine.wrap(SEYW_fake_script)()
+local function ZDEKONF_fake_script() -- CheckupBack.LocalScript 
 	local script = Instance.new('LocalScript', CheckupBack)
 
 	local BackButton = script.Parent
@@ -1135,9 +1397,153 @@ local function XEIHK_fake_script() -- CheckupBack.LocalScript
 	
 	BackButton.MouseButton1Click:Connect(lclick)
 end
-coroutine.wrap(XEIHK_fake_script)()
-local function EIDF_fake_script() -- Greeting.Script 
+coroutine.wrap(ZDEKONF_fake_script)()
+local function HUOC_fake_script() -- Greeting.Script 
 	local script = Instance.new('Script', Greeting)
+
+	local DACUGreetingButton = script.Parent
+	
+	function lclick()
+		local args = {
+			[1] = "(★★) |Hi! I'm Kurzen, and I'll be your Dentist for today! Please follow me!",
+			[2] = "All"
+		}
+		game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+	end
+	
+	DACUGreetingButton.MouseButton1Click:Connect(lclick)
+end
+coroutine.wrap(HUOC_fake_script)()
+local function VWYSUV_fake_script() -- DSCLUQ1.Script 
+	local script = Instance.new('Script', DSCLUQ1)
+
+	local DACleanupB1 = script.Parent
+	
+	function lclick()
+		local args = {
+			[1] = "(★★) | How often do you brush (and floss) your teeth daily?",
+			[2] = "All"
+		}
+		game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+	end
+	
+	DACleanupB1.MouseButton1Click:Connect(lclick)
+end
+coroutine.wrap(VWYSUV_fake_script)()
+local function APPKIQ_fake_script() -- DSCLUQ3.Script 
+	local script = Instance.new('Script', DSCLUQ3)
+
+	local DACleanupB3 = script.Parent
+	
+	function lclick()
+		local args = {
+			[1] = "(★★) | -Hand scales patients teeth. Then continues to scale their teeth using a machine.-",
+			[2] = "All"
+		}
+		game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+	end
+	
+	DACleanupB3.MouseButton1Click:Connect(lclick)
+end
+coroutine.wrap(APPKIQ_fake_script)()
+local function JZHAIEE_fake_script() -- DSCLUQ2.Script 
+	local script = Instance.new('Script', DSCLUQ2)
+
+	local DACleanupB2 = script.Parent
+	
+	function lclick()
+		local args = {
+			[1] = "(★★) | Please open your mouth, say 'Ahhh' or anything similar.",
+			[2] = "All"
+		}
+		game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+	end
+	
+	DACleanupB2.MouseButton1Click:Connect(lclick)
+end
+coroutine.wrap(JZHAIEE_fake_script)()
+local function DZPDK_fake_script() -- DSCLUQ5.Script 
+	local script = Instance.new('Script', DSCLUQ5)
+
+	local DACleanupB5 = script.Parent
+	
+	function lclick()
+		local args = {
+			[1] = "(★★) | What flavor toothpaste would you like? I can offer you Mint, Cinnamon, Strawberry, or Bubblegum flavor.",
+			[2] = "All"
+		}
+		game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+	end
+	
+	DACleanupB5.MouseButton1Click:Connect(lclick)
+end
+coroutine.wrap(DZPDK_fake_script)()
+local function LNHREQS_fake_script() -- DSCLUQ4.Script 
+	local script = Instance.new('Script', DSCLUQ4)
+
+	local DACleanupB4 = script.Parent
+	
+	function lclick()
+		local args = {
+			[1] = "(★★) | -Rinses their teeth and then uses suction machine.-",
+			[2] = "All"
+		}
+		game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+	end
+	
+	DACleanupB4.MouseButton1Click:Connect(lclick)
+end
+coroutine.wrap(LNHREQS_fake_script)()
+local function RGIM_fake_script() -- NextPageDAC.LocalScript 
+	local script = Instance.new('LocalScript', NextPageDAC)
+
+	local NextPageButton = script.Parent
+	
+	local CleanupFrame = game.CoreGui.FagShit.Frame.Backing.CleanupFrame
+	local CleanupFrame2 = game.CoreGui.FagShit.Frame.Backing.CleanupFrame2
+	
+	function lclick()
+		CleanupFrame.Visible = false
+		CleanupFrame2.Visible = true
+	end
+	
+	NextPageButton.MouseButton1Click:Connect(lclick)
+end
+coroutine.wrap(RGIM_fake_script)()
+local function FVQS_fake_script() -- DSCLUQ6.LocalScript 
+	local script = Instance.new('LocalScript', DSCLUQ6)
+
+	local FlavorButton = script.Parent
+	
+	local FlavorMenu = game.CoreGui.FagShit.Frame.Backing.FlavorMenu
+	local Cleanup = game.CoreGui.FagShit.Frame.Backing.CleanupFrame
+	
+	function lclick()
+		Cleanup.Visible = false
+		FlavorMenu.Visible = true
+	end
+	
+	FlavorButton.MouseButton1Click:Connect(lclick)
+end
+coroutine.wrap(FVQS_fake_script)()
+local function DNHRARD_fake_script() -- DSCLUQ7.Script 
+	local script = Instance.new('Script', DSCLUQ7)
+
+	local DACleanupB7 = script.Parent
+	
+	function lclick()
+		local args = {
+			[1] = "(★★) | Turns on water machine and rinses patients teeth.",
+			[2] = "All"
+		}
+		game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+	end
+	
+	DACleanupB7.MouseButton1Click:Connect(lclick)
+end
+coroutine.wrap(DNHRARD_fake_script)()
+local function CIBEFGB_fake_script() -- Greeting_2.Script 
+	local script = Instance.new('Script', Greeting_2)
 
 	local DAGreetingButton = script.Parent
 	
@@ -1151,8 +1557,8 @@ local function EIDF_fake_script() -- Greeting.Script
 	
 	DAGreetingButton.MouseButton1Click:Connect(lclick)
 end
-coroutine.wrap(EIDF_fake_script)()
-local function BZGUJM_fake_script() -- DSCUQ1.Script 
+coroutine.wrap(CIBEFGB_fake_script)()
+local function HWJTKV_fake_script() -- DSCUQ1.Script 
 	local script = Instance.new('Script', DSCUQ1)
 
 	local DACheckupB1 = script.Parent
@@ -1167,8 +1573,8 @@ local function BZGUJM_fake_script() -- DSCUQ1.Script
 	
 	DACheckupB1.MouseButton1Click:Connect(lclick)
 end
-coroutine.wrap(BZGUJM_fake_script)()
-local function PDAAQDH_fake_script() -- DSCUQ3.Script 
+coroutine.wrap(HWJTKV_fake_script)()
+local function EUBDYDR_fake_script() -- DSCUQ3.Script 
 	local script = Instance.new('Script', DSCUQ3)
 
 	local DACheckupB3 = script.Parent
@@ -1183,8 +1589,8 @@ local function PDAAQDH_fake_script() -- DSCUQ3.Script
 	
 	DACheckupB3.MouseButton1Click:Connect(lclick)
 end
-coroutine.wrap(PDAAQDH_fake_script)()
-local function QBRP_fake_script() -- DSCUQ2.Script 
+coroutine.wrap(EUBDYDR_fake_script)()
+local function FVWP_fake_script() -- DSCUQ2.Script 
 	local script = Instance.new('Script', DSCUQ2)
 
 	local DACheckupB2 = script.Parent
@@ -1199,8 +1605,8 @@ local function QBRP_fake_script() -- DSCUQ2.Script
 	
 	DACheckupB2.MouseButton1Click:Connect(lclick)
 end
-coroutine.wrap(QBRP_fake_script)()
-local function UIJJJYE_fake_script() -- DSCUQ5.Script 
+coroutine.wrap(FVWP_fake_script)()
+local function VQPU_fake_script() -- DSCUQ5.Script 
 	local script = Instance.new('Script', DSCUQ5)
 
 	local DACheckupB5 = script.Parent
@@ -1215,8 +1621,8 @@ local function UIJJJYE_fake_script() -- DSCUQ5.Script
 	
 	DACheckupB5.MouseButton1Click:Connect(lclick)
 end
-coroutine.wrap(UIJJJYE_fake_script)()
-local function HYMDRL_fake_script() -- DSCUQ4.Script 
+coroutine.wrap(VQPU_fake_script)()
+local function XOZEXIL_fake_script() -- DSCUQ4.Script 
 	local script = Instance.new('Script', DSCUQ4)
 
 	local DACheckupB4 = script.Parent
@@ -1231,8 +1637,8 @@ local function HYMDRL_fake_script() -- DSCUQ4.Script
 	
 	DACheckupB4.MouseButton1Click:Connect(lclick)
 end
-coroutine.wrap(HYMDRL_fake_script)()
-local function PDZKMW_fake_script() -- DSCUQ6.Script 
+coroutine.wrap(XOZEXIL_fake_script)()
+local function SPFWA_fake_script() -- DSCUQ6.Script 
 	local script = Instance.new('Script', DSCUQ6)
 
 	local DACheckupB6 = script.Parent
@@ -1247,8 +1653,8 @@ local function PDZKMW_fake_script() -- DSCUQ6.Script
 	
 	DACheckupB6.MouseButton1Click:Connect(lclick)
 end
-coroutine.wrap(PDZKMW_fake_script)()
-local function WAPFZCA_fake_script() -- NextPageDA.LocalScript 
+coroutine.wrap(SPFWA_fake_script)()
+local function ICFVKT_fake_script() -- NextPageDA.LocalScript 
 	local script = Instance.new('LocalScript', NextPageDA)
 
 	local NextPageButton = script.Parent
@@ -1263,4 +1669,194 @@ local function WAPFZCA_fake_script() -- NextPageDA.LocalScript
 	
 	NextPageButton.MouseButton1Click:Connect(lclick)
 end
-coroutine.wrap(WAPFZCA_fake_script)()
+coroutine.wrap(ICFVKT_fake_script)()
+local function SFPTRRR_fake_script() -- DSCLUQ9.Script 
+	local script = Instance.new('Script', DSCLUQ9)
+
+	local DACleanupB9 = script.Parent
+	
+	function lclick()
+		local args = {
+			[1] = "(★★) | Grabs floss and starts to floss patients teeth. Then disposes of floss.",
+			[2] = "All"
+		}
+		game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+	end
+	
+	DACleanupB9.MouseButton1Click:Connect(lclick)
+end
+coroutine.wrap(SFPTRRR_fake_script)()
+local function KDQFJB_fake_script() -- DSCLUQ11.Script 
+	local script = Instance.new('Script', DSCLUQ11)
+
+	local DACleanupB11 = script.Parent
+	
+	function lclick()
+		local args = {
+			[1] = "(★★) | Thanks for stopping by! Please follow me back into the main area so I can refresh you!",
+			[2] = "All"
+		}
+		game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+	end
+	
+	DACleanupB11.MouseButton1Click:Connect(lclick)
+end
+coroutine.wrap(KDQFJB_fake_script)()
+local function LPFZ_fake_script() -- LastPageDAC.LocalScript 
+	local script = Instance.new('LocalScript', LastPageDAC)
+
+	local LastPageButton = script.Parent
+	
+	local CleanupFrame = game.CoreGui.FagShit.Frame.Backing.CleanupFrame
+	local CleanupFrame2 = game.CoreGui.FagShit.Frame.Backing.CleanupFrame2
+	
+	function lclick()
+		CleanupFrame.Visible = true
+		CleanupFrame2.Visible = false
+	end
+	
+	LastPageButton.MouseButton1Click:Connect(lclick)
+end
+coroutine.wrap(LPFZ_fake_script)()
+local function CKCRKZD_fake_script() -- DSCLUQ8.Script 
+	local script = Instance.new('Script', DSCLUQ8)
+
+	local DACleanupB8 = script.Parent
+	
+	function lclick()
+		local args = {
+			[1] = "(★★) | Turns off the water to turn on the suction machine, Getting rid of anything left of their teeth.",
+			[2] = "All"
+		}
+		game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+	end
+	
+	DACleanupB8.MouseButton1Click:Connect(lclick)
+end
+coroutine.wrap(CKCRKZD_fake_script)()
+local function NRXW_fake_script() -- DSCLUQ10.Script 
+	local script = Instance.new('Script', DSCLUQ10)
+
+	local DACleanupB10 = script.Parent
+	
+	function lclick()
+		local args = {
+			[1] = "(★★) | You're all set! Give me a big smile!",
+			[2] = "All"
+		}
+		game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+	end
+	
+	DACleanupB10.MouseButton1Click:Connect(lclick)
+end
+coroutine.wrap(NRXW_fake_script)()
+local function UBSXRNR_fake_script() -- FlavorB1.Script 
+	local script = Instance.new('Script', FlavorB1)
+
+	local DACUGreetingButton = script.Parent
+	
+	function lclick()
+		local args = {
+			[1] = "(★★) | Places cinnamon flavoring on brush. Brushes and polishes patients top teeth, then continues to polish and brush the bottom teeth.",
+			[2] = "All"
+		}
+		game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+	end
+	
+	DACUGreetingButton.MouseButton1Click:Connect(lclick)
+end
+coroutine.wrap(UBSXRNR_fake_script)()
+local function CWPQYG_fake_script() -- FlavorB2.Script 
+	local script = Instance.new('Script', FlavorB2)
+
+	local DACleanupB1 = script.Parent
+	
+	function lclick()
+		local args = {
+			[1] = "(★★) | Places strawberry flavoring on brush. Brushes and polishes patients top teeth, then continues to polish and brush the bottom teeth.",
+			[2] = "All"
+		}
+		game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+	end
+	
+	DACleanupB1.MouseButton1Click:Connect(lclick)
+end
+coroutine.wrap(CWPQYG_fake_script)()
+local function VPRT_fake_script() -- FlavorB4.Script 
+	local script = Instance.new('Script', FlavorB4)
+
+	local DACleanupB3 = script.Parent
+	
+	function lclick()
+		local args = {
+			[1] = "(★★) | Places bubblegum flavoring on brush. Brushes and polishes patients top teeth, then continues to polish and brush the bottom teeth.",
+			[2] = "All"
+		}
+		game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+	end
+	
+	DACleanupB3.MouseButton1Click:Connect(lclick)
+end
+coroutine.wrap(VPRT_fake_script)()
+local function YPLIEF_fake_script() -- FlavorB3.Script 
+	local script = Instance.new('Script', FlavorB3)
+
+	local DACleanupB2 = script.Parent
+	
+	function lclick()
+		local args = {
+			[1] = "(★★) | Places mint flavoring on brush. Brushes and polishes patients top teeth, then continues to polish and brush the bottom teeth.",
+			[2] = "All"
+		}
+		game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+	end
+	
+	DACleanupB2.MouseButton1Click:Connect(lclick)
+end
+coroutine.wrap(YPLIEF_fake_script)()
+local function DKBK_fake_script() -- BackPageFlavor.LocalScript 
+	local script = Instance.new('LocalScript', BackPageFlavor)
+
+	local BackPageButton = script.Parent
+	
+	local CleanupFrame = game.CoreGui.FagShit.Frame.Backing.CleanupFrame
+	local FlavorMenu = game.CoreGui.FagShit.Frame.Backing.FlavorMenu
+	
+	function lclick()
+		CleanupFrame.Visible = true
+		FlavorMenu.Visible = false
+	end
+	
+	BackPageButton.MouseButton1Click:Connect(lclick)
+end
+coroutine.wrap(DKBK_fake_script)()
+local function KCPWW_fake_script() -- Home.LocalScript 
+	local script = Instance.new('LocalScript', Home)
+
+	local HomeButton = script.Parent
+	
+	local CheckupFrame = script.Parent.Parent.Backing.CheckupFrame
+	local CheckupFrame2 = script.Parent.Parent.Backing.CheckupFrame2
+	
+	local CleanupFrame = script.Parent.Parent.Backing.CleanupFrame
+	local CleanupFrame2 = script.Parent.Parent.Backing.CleanupFrame2
+	local FlavorMenu = script.Parent.Parent.Backing.FlavorMenu
+	
+	local DentalAid = script.Parent.Parent.Backing.DentalAid
+	
+	local HomePage = script.Parent.Parent.Backing.PageOne
+	
+	function lclick()
+		CheckupFrame.Visible = false
+		CheckupFrame2.Visible = false
+		CleanupFrame.Visible = false
+		CleanupFrame2.Visible = false
+		FlavorMenu.Visible = false
+		DentalAid.Visible = false
+		
+		HomePage.Visible = true
+	end
+	
+	HomeButton.MouseButton1Click:Connect(lclick)
+end
+coroutine.wrap(KCPWW_fake_script)()
